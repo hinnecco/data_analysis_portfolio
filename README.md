@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** In this project I first collect the data from the OLX website, that is a famous platform in Brazil for users list things for sale, so using requests and beautifulsoup I did the webscraping and collected about 10000 properties information, after saved it in a CSV file, so I started another notebook and start check the dataset, cleaning the data and doing the exploratory data analysis.
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization.  
 **Technology:** Python, Pandas, Seaborn, Matplotlib.  
-**Results:** Review of the situation of houses listed for sale 
+**Results:** Review of the situation of houses listed for sale
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
